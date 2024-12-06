@@ -8,7 +8,7 @@
 
 
 ## 📝 Consignes
-Utilisation d'une API REST de génération d'utilisateurs aléatoires (email, pdp, pseudo aléatoires) avec Symfony.
+Accéder à une API REST de génération d'utilisateurs aléatoires (email, pdp, pseudo aléatoires) avec Symfony, puis afficher les résultats sur une page web.
 
 ## 🔧 Technologies utilisées
 - HTML
