@@ -1,30 +1,30 @@
 # Titre de l'exercice
 
 ## 🎯 Objectifs pédagogiques
-- Liste des concepts à apprendre/pratiquer
-- Par exemple : "Manipulation du DOM en JavaScript"
-- Ou : "Création de requêtes SQL simples"
+- Comprendre les concepts de base liés à la consommation d'une API REST avec Symfony
+- Apprendre à utiliser le composant HttpClient de Symfony
+- Mettre en pratique les connaissances acquises à travers un exercice guidé
+- Apprendre à utiliser API Platform pour créer sa propre API
+
 
 ## 📝 Consignes
-Description claire et concise de ce qui est attendu.
+Utilisation d'une API REST de génération d'utilisateurs aléatoires (email, pdp, pseudo aléatoires) avec Symfony.
 
 ## 🔧 Technologies utilisées
 - HTML
 - CSS
 - JavaScript
+- Symfony
 - PHP
 - MySQL
-(à adapter selon l'exercice)
 
 ## 💡 Concepts clés abordés
-- Liste des notions importantes
-- Par exemple : "Sélecteurs CSS"
-- Ou : "Boucles PHP"
+- Utilisation d'une API REST depuis Symfony
+- ...
 
 ## 📦 Installation
 ```bash
-# Si besoin d'étapes d'installation
-git clone [url-du-repo]
+git clone https://github.com/Loic-1/SfAPI_Users.git
 ```
 
 ## ✨ Démonstration
@@ -36,4 +36,4 @@ Si possible, ajoutez une capture d'écran du résultat attendu
 - Support de cours associé
 
 ---
-Exercice réalisé dans le cadre de la formation [Nom de la formation]
+Exercice réalisé dans le cadre de la formation Développeur web / Web mobile
